@@ -15,7 +15,7 @@
     <i class="text-primary mr-0 font-size-24 mdi mdi-account-multiple"></i>
 </div>
 <div>
-    <p class="text-mute mt-20 mb-0 font-size-16">New Customers</p>
+    <p class="text-mute mt-20 mb-0 font-size-16">New Users</p>
     <h3 class="text-white mb-0 font-weight-500">3400 <small class="text-success"><i class="fa fa-caret-up"></i> +2.5%</small></h3>
 </div>
 </div>
@@ -28,7 +28,7 @@
     <i class="text-warning mr-0 font-size-24 mdi mdi-car"></i>
 </div>
 <div>
-    <p class="text-mute mt-20 mb-0 font-size-16">Sold Cars</p>
+    <p class="text-mute mt-20 mb-0 font-size-16">Sold Products</p>
     <h3 class="text-white mb-0 font-weight-500">3400 <small class="text-success"><i class="fa fa-caret-up"></i> +2.5%</small></h3>
 </div>
 </div>
@@ -41,7 +41,7 @@
     <i class="text-info mr-0 font-size-24 mdi mdi-sale"></i>
 </div>
 <div>
-    <p class="text-mute mt-20 mb-0 font-size-16">Sales Lost</p>
+    <p class="text-mute mt-20 mb-0 font-size-16">Sales </p>
     <h3 class="text-white mb-0 font-weight-500">$1,250 <small class="text-danger"><i class="fa fa-caret-down"></i> -0.5%</small></h3>
 </div>
 </div>
@@ -54,7 +54,7 @@
     <i class="text-danger mr-0 font-size-24 mdi mdi-phone-incoming"></i>
 </div>
 <div>
-    <p class="text-mute mt-20 mb-0 font-size-16">Inbound Call</p>
+    <p class="text-mute mt-20 mb-0 font-size-16">Total Sales</p>
     <h3 class="text-white mb-0 font-weight-500">1,460 <small class="text-danger"><i class="fa fa-caret-up"></i> -1.5%</small></h3>
 </div>
 </div>
@@ -76,7 +76,7 @@
         <thead>
             <tr class="text-uppercase bg-lightest">
                 <th style="min-width: 250px"><span class="text-white">products</span></th>
-                <th style="min-width: 100px"><span class="text-fade">pruce</span></th>
+                <th style="min-width: 100px"><span class="text-fade">price</span></th>
                 <th style="min-width: 100px"><span class="text-fade">deposit</span></th>
                 <th style="min-width: 150px"><span class="text-fade">agent</span></th>
                 <th style="min-width: 130px"><span class="text-fade">status</span></th>
